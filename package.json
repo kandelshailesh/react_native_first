@@ -1,0 +1,41 @@
+{
+  "scripts": {
+    "start": "react-native start",
+    "android": "react-native run-android",
+    "ios": "react-native run-ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "expo": "^34.0.3",
+    "express": "^4.17.1",
+    "http": "0.0.0",
+    "mongodb-stitch-react-native-sdk": "^4.4.1",
+    "mongodb-stitch-react-native-services-mongodb-remote": "^4.5.0",
+    "mongodb-stitch-server-sdk": "^4.5.0",
+    "native-base": "^2.13.4",
+    "opencollective-postinstall": "^2.0.2",
+    "react": "16.8.3",
+    "react-dom": "^16.8.6",
+    "react-native": "0.59.8",
+    "react-native-bootstrap-styles": "0.0.9",
+    "react-native-cache": "^1.1.8",
+    "react-native-gesture-handler": "^1.3.0",
+    "react-native-ionicons": "^4.6.1",
+    "react-native-paper": "^2.16.0",
+    "react-native-reanimated": "^1.2.0",
+    "react-native-sound": "^0.11.0",
+    "react-native-table-component": "^1.2.0",
+    "react-native-vector-icons": "^6.6.0",
+    "react-native-web": "^0.11.4",
+    "react-navigation": "^3.11.0",
+    "react-navigation-material-bottom-tabs": "^1.0.0",
+    "react-navigation-tabs": "^2.3.0",
+    "socket.io": "^2.2.0",
+    "socket.io-client": "^2.2.0"
+  },
+  "devDependencies": {
+    "babel-preset-expo": "^5.1.1"
+  },
+  "private": true
+}
